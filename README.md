@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 ( About Me:
 ### 👋 Hey there, I'm Efeturi <br><br>💻 Cybersecurity Enthusiast | 🛠 Backend Developer | 🔍 Pentester-in-Training  <br><br>I'm a passionate student with a deep interest in **web security, backend development, and penetration testing**. <br>I enjoy building applications, breaking things ethically, and learning new ways to defend against cyber threats.  <br><br>🎓 **Graduating in Spring 2025**  <br>🚀 Always exploring new tech in **Linux, and ethical hacking**  <br>📚 Currently honing my skills in **FastAPI, DevOps, and Wazuh SIEM**  <br><br>Let's connect and build something awesome!  <br><br>
 
 
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/efeturi-onobrakpeya-358367341/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@onobrakpeyaefeturi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onobrakpeyaefeturi@gmail.com ) 
 
 # 📜 Certifications:
-
+### CompTIA Security + <br><br>
 
 # 🚀 My Projects:
 
