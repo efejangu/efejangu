@@ -23,8 +23,6 @@ Developed a Windows API-based fork bomb in C to assess system resilience.
 ### 🔹  Cybersecurity Home Lab 
  Built a self-hosted cybersecurity practice environment for system administration and penetration testing
 
-### 🔹 Ransomware proof of concept - Coming Soon
+### 🔹 [Ransomware proof of concept](https://github.com/efejangu/acelock)
+Designed and deployed a Command and Control (C2) server with simulated ransomware functionality to emulate real-world cyberattack scenarios for educational and threat modeling purposes.
 
-A sneak peek at my next exciting cybersecurity or development project. Stay tuned!
-
-###
