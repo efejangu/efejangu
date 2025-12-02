@@ -9,7 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/efeturi-onobrakpeya-358367341) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@onobrakpeyaefeturi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onobrakpeyaefeturi@gmail.com ) 
 
 # 📜 Certifications:
-### CompTIA Security + <br><br>
+### CompTIA Security + 
+### EJPT <br><br>
 
 # 🚀 My Projects:
 
@@ -25,4 +26,10 @@ Developed a Windows API-based fork bomb in C to assess system resilience.
 
 ### 🔹 [Ransomware proof of concept](https://github.com/efejangu/acelock)
 Designed and deployed a Command and Control (C2) server with simulated ransomware functionality to emulate real-world cyberattack scenarios for educational and threat modeling purposes.
+
+### 🔹 [Python Host Based Intrusion Detection System](https://github.com/efejangu/HIDS)
+Created host based intrusion detection system in python, with the following features:
+-directory and file monitoring.
+-Identifying malicious processes.
+-Flagging malicious IP addresses
 
