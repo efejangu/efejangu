@@ -1,5 +1,5 @@
 # ❓  whoami:
-### 👋 Hey there, I'm Efeturi <br><br>💻 Cybersecurity Enthusiast | 🛠 Backend Developer | 🔍 Pentester-in-Training | 🇺🇸🇳🇬   <br><br>I'm a passionate student with a deep interest in **web security, backend development, and penetration testing**. <br>I enjoy building applications, breaking things ethically, and learning new ways to defend against cyber threats.  <br><br>🎓 **Graduated May 2025**  <br>🚀 Always exploring new tech in **Linux, and ethical hacking**  <br>📚 Currently honing my skills in **Software Development, Software Security and, DevOps**  <br><br><br>
+### 👋 Hey there, I'm Efeturi <br><br>💻 Cybersecurity Enthusiast | 🛠 Backend Developer | 🔍 Pentester | 🇺🇸🇳🇬   <br><br>I'm a passionate student with a deep interest in **web security, backend development, and penetration testing**. <br>I enjoy building applications, breaking things ethically, and learning new ways to defend against cyber threats.  <br><br>🎓 **Graduated May 2025**  <br>🚀 Always exploring new tech in **Linux, and ethical hacking**  <br>📚 Currently honing my skills in **Software Development, Software Security and, DevOps**  <br><br><br>
 
 
 # 💻 Tech Stack:
