@@ -33,3 +33,6 @@ Created host based intrusion detection system in python, with the following feat
 -Identifying malicious processes.
 -Flagging malicious IP addresses
 
+### 🔹 [Infrastructure as a Security Asset: Setting Up Centralized Logging in Azure](https://medium.com/@onobrakpeyaefeturi/infrastructure-as-a-security-asset-setting-up-centralized-logging-in-azure-ff4e1dceda91)
+Deployed a Windows virtual machine (VM) and establish a comprehensive monitoring baseline using Azure-native services to track critical performance metrics: CPU, memory, disk I/O, and network throughput.
+
