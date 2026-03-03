@@ -15,24 +15,23 @@
 # 🚀 My Projects:
 
 ### 🔹 [Linux Server Hardening & Monitoring](https://medium.com/@onobrakpeyaefeturi/linux-server-hardening-and-monitoring-part-1-2456e44e7673)
-
-A step-by-step guide to securing a production-ready Linux server running a containerized FastAPI backend. This project includes firewall configurations, intrusion prevention systems, and Wazuh for real-time monitoring.
+ A step-by-step guide to securing a production-ready Linux server running a containerized FastAPI backend. This project includes firewall configurations, intrusion prevention systems, and Wazuh for real-time monitoring.
 
 ### 🔹 [Windows Crasher](https://github.com/efejangu/windowsCrasher)
-Developed a Windows API-based fork bomb in C to assess system resilience.
+ Developed a Windows API-based fork bomb in C to assess system resilience.
 
 ### 🔹  Cybersecurity Home Lab 
- Built a self-hosted cybersecurity practice environment for system administration and penetration testing
+  Built a self-hosted cybersecurity practice environment for system administration and penetration testing
 
 ### 🔹 [Ransomware proof of concept](https://github.com/efejangu/acelock)
 Designed and deployed a Command and Control (C2) server with simulated ransomware functionality to emulate real-world cyberattack scenarios for educational and threat modeling purposes.
 
 ### 🔹 [Python Host Based Intrusion Detection System](https://github.com/efejangu/HIDS)
-Created host based intrusion detection system in python, with the following features:
--directory and file monitoring.
--Identifying malicious processes.
--Flagging malicious IP addresses
+ Created host based intrusion detection system in python, with the following features:
+ -directory and file monitoring.
+ -Identifying malicious processes.
+ -Flagging malicious IP addresses
 
 ### 🔹 [Infrastructure as a Security Asset: Setting Up Centralized Logging in Azure](https://medium.com/@onobrakpeyaefeturi/infrastructure-as-a-security-asset-setting-up-centralized-logging-in-azure-ff4e1dceda91)
-Deployed a Windows virtual machine (VM) and establish a comprehensive monitoring baseline using Azure-native services to track critical performance metrics: CPU, memory, disk I/O, and network throughput.
+ Deployed a Windows virtual machine (VM) and establish a comprehensive monitoring baseline using Azure-native services to track critical performance metrics: CPU, memory, disk I/O, and network throughput.
 
